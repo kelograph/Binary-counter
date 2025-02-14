@@ -1,5 +1,3 @@
-Binary counter for ti84+ce
-<200 bytes
-filename: BINARY.8xp
-Description:
-Watch the counter go up in a satisfying way
+BINARY.8xp is the original version by me. Size: 190 bytes.
+
+BINARY2.8xp is a faster version. Size: 108 bytes. (by mrwompwomp)
